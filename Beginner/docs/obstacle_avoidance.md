@@ -1,7 +1,3 @@
-
-#### 2. **obstacle_avoidance.md**
-
-
 # Obstacle Avoidance
 
 This example demonstrates how to use sensors to help a robot avoid obstacles.
