@@ -1,7 +1,4 @@
 
-#### 3. **servo_sweep.md**
-
-```markdown
 # Servo Sweep
 
 This example demonstrates how to control a servo motor to perform a sweep motion.
