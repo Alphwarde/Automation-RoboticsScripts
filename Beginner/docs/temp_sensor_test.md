@@ -1,7 +1,4 @@
 
-#### 4. **temp_sensor_test.md**
-
-```markdown
 # Temperature Sensor Test
 
 This example demonstrates how to read the temperature using a sensor like the LM35 and display it on the serial monitor.
