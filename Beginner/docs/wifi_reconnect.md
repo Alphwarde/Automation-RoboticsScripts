@@ -1,7 +1,3 @@
-
-#### 5. **wifi_reconnect.md**
-
-```markdown
 # WiFi Reconnect
 
 This example demonstrates how to reconnect to WiFi if the connection is lost.
