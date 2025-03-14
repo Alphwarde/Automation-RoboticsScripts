@@ -1,4 +1,4 @@
-This script automates the calibration of a sensor (e.g., temperature sensor).
+# This script automates the calibration of a sensor (e.g., temperature sensor).
 
 import time
 
