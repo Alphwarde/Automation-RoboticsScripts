@@ -1,4 +1,4 @@
-This script connects an ESP8266/ESP32 device to WiFi automatically.
+// This script connects an ESP8266/ESP32 device to WiFi automatically.
 
 #include <ESP8266WiFi.h>
 
