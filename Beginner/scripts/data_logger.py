@@ -1,4 +1,4 @@
-This script reads data from sensors (e.g., temperature sensor) and logs the data to a file.
+# This script reads data from sensors (e.g., temperature sensor) and logs the data to a file.
 
 import time
 import random
