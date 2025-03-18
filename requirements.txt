@@ -1,3 +1,2 @@
 pySerial
-AFMotor
 requests
