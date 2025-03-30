@@ -48,6 +48,8 @@ This project allows users to control a robot via speech recognition and hand ges
 To run this project, ensure you have the following dependencies installed:
 
 1. **Python 3.x**: The primary language for the script.
+- You can either do `python -m pip install -r requirements.txt` for Unix/MacOS and `py -m pip install -r requirements.txt` for windows instead of downloading the requirements from here
+
 2. **SpeechRecognition**: For converting speech to text.
    ```bash
    pip install SpeechRecognition
@@ -80,7 +82,7 @@ To run this project, ensure you have the following dependencies installed:
    - Ensure all dependencies are installed.
    - Modify the serial port in the script to match your system's port (e.g., `/dev/ttyUSB0` or `COM3`).
    - Run the Python script. It will start listening for voice commands and hand gestures.
-   - Speak a command like "forward", "left", etc., or use hand gestures to control the robot.
+   - Speak a command like "`forward`", "`left`", etc., or use `hand gestures` to control the robot.
    
 3. **Stopping the Program**:
    - Press `q` to stop the webcam feed and exit the program.
