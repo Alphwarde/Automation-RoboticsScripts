@@ -1,2 +1,6 @@
 pySerial
 requests
+SpeechRecognition
+pyaudio
+opencv-python
+mediapipe
