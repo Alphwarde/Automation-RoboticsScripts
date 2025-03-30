@@ -1,14 +1,14 @@
 import speech_recognition as sr
 import serial
-
+# try to speak the commands loud and clear because this library isnt the best without using paid APIs 
 ser = serial.Serial('/dev/ttyUSB0', 9600)  # Adjust the port to your ESP32 or Arduino
 
 commands = {
     "forward": "F",  # Voice command 'forward' sends 'F' to the robot
-    "backward": "B",
-    "left": "L",
-    "right": "R",
-    "stop": "S"
+    "backward": "B", # LikeWise
+    "left": "L", # 
+    "right": "R", #
+    "stop": "S" # 
 }
 
 recognizer = sr.Recognizer()  # Initialize speech recognizer
